@@ -1,6 +1,6 @@
 ⚡ Fun fact **I'm interested in Cybersecurity Stuffs😃**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: asmt251825@gmail.com</h3>
 <p align="left">
 </p>
 
