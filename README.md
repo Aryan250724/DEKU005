@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
 - 📫 How to reach me **asmt251825@gmail.com**
+- 🌱 I’m currently learning **Java,python**
 
 - ⚡ Fun fact **I'm interested in Cybersecurity Stuffs😃**
 
-<h3 align="left">Connect with me:Instagram - _aryan_sharma25 </h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
