@@ -1,6 +1,9 @@
-⚡ Fun fact **I'm interested in Cybersecurity Stuffs😃**
+<h1 align="center">Hi 👋, I'm Aryan Sharma</h1>
+- 📫 How to reach me **asmt251825@gmail.com**
 
-<h3 align="left">Connect with me: asmt251825@gmail.com</h3>
+- ⚡ Fun fact **I'm interested in Cybersecurity Stuffs😃**
+
+<h3 align="left">Connect with me: </h3>
 <p align="left">
 </p>
 
